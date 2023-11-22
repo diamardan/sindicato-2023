@@ -7,7 +7,7 @@ import 'package:flutter/material.dart';
 const String appName = 'SECTEC 30';
 
 // color for apps
-const Color primaryColor = Color(0XFF990000);
+const Color primaryColor = Colors.grey;
 const Color black21 = Color(0xFF212121);
 const Color softGrey = Color(0xFFa1a1a1);
 const Color blackGrey = Color(0xff656364);
@@ -21,6 +21,6 @@ const int connectionTimeout = 30;
 
 const whatsappNumber = '+5215561146039';
 const supportNumber = '5561146039';
-const whatsappText = 'Hola me comunico del SECTEC 30';
+const whatsappText = 'Hola me comunico de Sindicato';
 const cardValidityOld = '16 JULIO 2024';
 const cardValidityNew = '16 JULIO 2024';
